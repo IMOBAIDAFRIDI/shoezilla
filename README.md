@@ -59,5 +59,4 @@ Author
 Ubaid Ur Rahman
 📧 Email: imobaidafridi@gmail.com
 🔗 GitHub: https://github.com/IMOBAIDAFRIDI
-💻 GitHub: IMOBAIDAFRIDI
 
