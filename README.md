@@ -1,4 +1,3 @@
-Shoezilla
 Shoezilla is a stylish, comfortable, and durable footwear website built as a static HTML project with inline CSS. It serves as a single destination for trendy shoes, ranging from athletic sneakers to casual wear.
 
 Project Overview
